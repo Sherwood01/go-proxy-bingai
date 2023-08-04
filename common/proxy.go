@@ -47,7 +47,7 @@ var (
 		"https://cn.bing.com",
 		"https://www.bing.com",
 	}
-	USER_TOKEN_COOKIE_NAME          = "1ZfK8vJsU5qHc2zwnM-jIAU6qvoZBrN2b11IV8LwKhBkZ-BljIcBwwCE4pnt20mFilvYcTuyH8rTgH2JFjH_eS3so5aqMydcZMgkRdG_RqWJajkvXh8fO-Da0HkFMdjqNZxXdMrELsX0TFDDdRwiqxEwakXZ4Bo53e6A8xRO-UPFwAZ7lQzd8V7Rq-O3hIiVQGCs5baz43216j800Or1_7dLgYufXaZW4uJfs8BmZZB0"
+	USER_TOKEN_COOKIE_NAME          = "_U"
 	USER_KievRPSSecAuth_COOKIE_NAME = "KievRPSSecAuth"
 	USER_RwBf_COOKIE_NAME           = "_RwBf"
 	RAND_COOKIE_INDEX_NAME          = "BingAI_Rand_CK"
