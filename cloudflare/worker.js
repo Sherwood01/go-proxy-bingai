@@ -81,7 +81,7 @@ const getRandomIP = () => {
  * @returns
  */
 const home = async (pathname) => {
-  const baseUrl = 'https://raw.githubusercontent.com/Harry-zklcdc/go-proxy-bingai/master/';
+  const baseUrl = 'https://raw.githubusercontent.com/Sherwood01/go-proxy-bingai/master/';
   let url;
   if (pathname.indexOf('/web/') === 0) {
     url = pathname.replace('/web/', baseUrl+'web/');
